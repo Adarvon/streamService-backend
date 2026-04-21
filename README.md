@@ -9,7 +9,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone <repository-url>
+git clone https://github.com/Adarvon/streamService-backend.git
 cd streamService-backend
 
 # Создать виртуальное окружение с Python 3.12
